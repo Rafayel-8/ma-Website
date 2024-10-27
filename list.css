@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(74, 74, 75);
+}
+.home{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.homeBlock{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    width: 200px;
+    height: 25px;
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    font-size: large; 
+    border-radius: 10px;
+}
